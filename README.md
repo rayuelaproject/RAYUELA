@@ -98,7 +98,7 @@ The analysis of the communications carried out within the defined scenario focus
 <br />
 Do you want to check the security and privacy of your connected device?
   
-<p align="left"><a href="https://jvelazquezm.github.io">Automatic testing »</a></p>
+<p align="left"><a href="https://rayuelaproject.github.io/App/">Automatic testing »</a></p>
 <p align="left"><a href="https://rayuelaproject.github.io/Tests/">Manual testing »</a></p>
 
 
